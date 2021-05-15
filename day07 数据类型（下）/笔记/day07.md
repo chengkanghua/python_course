@@ -2,7 +2,7 @@
 
 常见的数据类型：
 
-- <span style="color:gray">int，整数类型（整形）</span>
+- <span style="color:gray">int，整数类型（整型）</span>
 - <span style="color:gray">bool，布尔类型</span>
 - <span style="color:gray">str，字符串类型</span>
 - <span style="color:gray">list，列表类型</span>
